@@ -2,3 +2,5 @@ name: CustomJoinMessage
 version: '${project.version}'
 main: me.podateK_.CustomJoinMessage
 api-version: '1.18'
+commands:
+  customjoinmessage:
